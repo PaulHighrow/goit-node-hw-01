@@ -1,0 +1,23 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "GoIT FS60, Bl-Group-2, Sulihan Kyrylo, Node.js HW-01",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulHighrow/goit-node-hw-01.git"
+  },
+  "author": "Sulihan Kyrylo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulHighrow/goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/PaulHighrow/goit-node-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
