@@ -1,6 +1,6 @@
 const fs = require("fs").promises;
 const { nanoid } = require("nanoid");
-const path = require("node:path/win32");
+const path = require("path");
 const chalk = require("chalk");
 
 const contactsPath = path.join(__dirname, "./db/contacts.json");
